@@ -6,6 +6,11 @@
 
 <img src="https://github.com/mwasikz/food-ordering-device/blob/main/readme-assets/menu.png" width="1000" >
 
-
 <img src="https://github.com/mwasikz/food-ordering-device/blob/main/readme-assets/burger_menu.png" width="1000">
+
+<img src="https://github.com/mwasikz/food-ordering-device/blob/main/readme-assets/pizza_menu.png" width="1000">
+
+<img src="https://github.com/mwasikz/food-ordering-device/blob/main/readme-assets/checkout.png" width="1000">
+
+<img src="https://github.com/mwasikz/food-ordering-device/blob/main/readme-assets/qr_screen.png" width="1000">
 
