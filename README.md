@@ -4,5 +4,5 @@
 
 ### Screens
 
-<img src="https://github.com/mwasikz/food-ordering-device/blob/main/readme-assets/menu.png" width="500" >
-<img src="https://github.com/mwasikz/food-ordering-device/blob/main/readme-assets/burger_menu.png" width="500">
+<img src="https://github.com/mwasikz/food-ordering-device/blob/main/readme-assets/menu.png" width="600" >
+<img src="https://github.com/mwasikz/food-ordering-device/blob/main/readme-assets/burger_menu.png" width="600">
