@@ -5,5 +5,5 @@
 ### Screens
 
 <img src="https://github.com/mwasikz/food-ordering-device/blob/main/readme-assets/menu.png" width="1000" >
-
+---
 <img src="https://github.com/mwasikz/food-ordering-device/blob/main/readme-assets/burger_menu.png" width="1000">
